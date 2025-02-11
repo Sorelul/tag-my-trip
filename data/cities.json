@@ -25,30 +25,6 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "846b",
-      "cityName": "Nushki",
-      "country": "Pakistan",
-      "emoji": "🇵🇰",
-      "date": "2025-02-11T16:47:51.685Z",
-      "notes": "test",
-      "position": {
-        "lat": "29.458731185355344",
-        "lng": "66.04980468750001"
-      }
-    },
-    {
       "id": "5f54",
       "cityName": "Constanţa",
       "country": "Romania",
@@ -70,30 +46,6 @@
       "position": {
         "lat": "45.13555516012536",
         "lng": "28.839111328125004"
-      }
-    },
-    {
-      "id": "4e57",
-      "cityName": "Lukovistia",
-      "country": "Slovakia",
-      "emoji": "🇸🇰",
-      "date": "2025-02-11T16:54:11.168Z",
-      "notes": "test",
-      "position": {
-        "lat": "48.45835188280866",
-        "lng": "20.017089843750004"
-      }
-    },
-    {
-      "id": "8199",
-      "cityName": "Carţisoara",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2025-02-11T16:55:22.243Z",
-      "notes": "test2",
-      "position": {
-        "lat": "45.63708709571876",
-        "lng": "24.576416015625004"
       }
     }
   ]
