@@ -47,6 +47,30 @@
         "lat": "45.13555516012536",
         "lng": "28.839111328125004"
       }
+    },
+    {
+      "id": "eb17",
+      "cityName": "Murzuk",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2025-02-12T15:54:40.268Z",
+      "notes": "test",
+      "position": {
+        "lat": "23.725011735951796",
+        "lng": "14.062500000000002"
+      }
+    },
+    {
+      "id": "eb2d",
+      "cityName": "Orastioara de Sus",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2025-02-12T16:00:32.744Z",
+      "notes": "Test",
+      "position": {
+        "lat": "45.706179285330855",
+        "lng": "23.148193359375004"
+      }
     }
   ]
 }
