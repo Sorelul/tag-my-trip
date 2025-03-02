@@ -11,66 +11,6 @@
         "lng": -9.140900099907554
       },
       "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "id": "5f54",
-      "cityName": "Constanţa",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2025-02-11T16:49:19.661Z",
-      "notes": "Hehe",
-      "position": {
-        "lat": "44.174324837518924",
-        "lng": "28.663330078125004"
-      }
-    },
-    {
-      "id": "cefa",
-      "cityName": "Tulcea",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2025-02-11T16:51:03.579Z",
-      "notes": "Prea eazy",
-      "position": {
-        "lat": "45.13555516012536",
-        "lng": "28.839111328125004"
-      }
-    },
-    {
-      "id": "eb17",
-      "cityName": "Murzuk",
-      "country": "Libya",
-      "emoji": "🇱🇾",
-      "date": "2025-02-12T15:54:40.268Z",
-      "notes": "test",
-      "position": {
-        "lat": "23.725011735951796",
-        "lng": "14.062500000000002"
-      }
-    },
-    {
-      "id": "eb2d",
-      "cityName": "Orastioara de Sus",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2025-02-12T16:00:32.744Z",
-      "notes": "Test",
-      "position": {
-        "lat": "45.706179285330855",
-        "lng": "23.148193359375004"
-      }
     }
   ]
 }
